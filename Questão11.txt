@@ -1,0 +1,2 @@
+Válidos: a, b, e, g, h
+Inválidos: c, d, f

@@ -1,0 +1,2 @@
+Legais - a, b, g, h
+Ilegais - c, d, e, f

@@ -1,0 +1,6 @@
+contador/valor/valor/endereco/endereco
+i = 0 vet[0] = 1.1 *(f + 0) = 1.1 &vet[0] = A6BF9610 (f + 0) = A6BF9610
+i = 1 vet[1] = 2.2 *(f + 1) = 2.2 &vet[1] = A6BF9614 (f + 1) = A6BF9614
+i = 2 vet[2] = 3.3 *(f + 2) = 3.3 &vet[2] = A6BF9618 (f + 2) = A6BF9618
+i = 3 vet[3] = 4.4 *(f + 3) = 4.4 &vet[3] = A6BF961C (f + 3) = A6BF961C
+i = 4 vet[4] = 5.5 *(f + 4) = 5.5 &vet[4] = A6BF9620 (f + 4) = A6BF9620

@@ -1,0 +1,1 @@
+O primeiro imprime para o usuário os valores de cada elemento do vetor. O segundo imprime para o usuário os endereços de cada elemento do vetor.

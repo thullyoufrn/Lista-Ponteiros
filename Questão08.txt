@@ -1,0 +1,1 @@
+Apenas a primeira e a segunda expressão são válidas. A terceira expressão não é válida por causa da aspa. A última expressão também não é válida porque a variável “mat” não é um ponteiro, logo não permite o asterisco acompanhando-a.
