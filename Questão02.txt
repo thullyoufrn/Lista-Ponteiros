@@ -1,0 +1,4 @@
+•	p é igual ao endereço de i;
+•	conteúdo de p menos o conteúdo de q;
+•	conteúdo do endereço de p;
+•	três menos o conteúdo de p dividido pelo conteúdo de      q mais sete;

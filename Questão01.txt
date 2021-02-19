@@ -1,0 +1,1 @@
+O aprendizado de ponteiros é de extrema importância para formação de um engenheiro tendo em vista que, através dele é possível realizar diversas manipulações com a memória virtual, além de possibilitar ao programador ter acesso a outros recursos antes indisponíveis na construção de um código em C. 
